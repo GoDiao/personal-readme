@@ -45,14 +45,11 @@ A hierarchical multi-agent academic paper reading system with an interactive web
 
 ## Open Source Highlights
 
-- **paperclipai/paperclip** — investigated and fixed Windows CJK encoding corruption issues across real system boundaries, including GBK/UTF-8 handling and platform-specific debugging.  
-  PRs: [#3966](https://github.com/paperclipai/paperclip/pull/3966) · [#3942](https://github.com/paperclipai/paperclip/pull/3942)
+- **paperclip** — Open-source orchestration for zero-human companies. [Repo](https://github.com/paperclipai/paperclip)
 
-- **LiuMengxuan04/MiniCode** — contributed support for `MINI_CODE_HOME` and improved custom config directory workflows for better local environment control.  
-  PR: [#14](https://github.com/LiuMengxuan04/MiniCode/pull/14)
+- **MiniCode** — A lightweight terminal coding assistant with Claude Code-like workflow and TUI architecture. [Repo](https://github.com/LiuMengxuan04/MiniCode)
 
-- **coding-kitties/investing-algorithm-framework** — fixed UTF-8 and Windows compatibility issues affecting reports and local source checkout usability.  
-  PRs: [#466](https://github.com/coding-kitties/investing-algorithm-framework/pull/466) · [#463](https://github.com/coding-kitties/investing-algorithm-framework/pull/463)
+- **investing-algorithm-framework** — Framework for developing, backtesting, and deploying automated trading algorithms and trading bots. [Repo](https://github.com/coding-kitties/investing-algorithm-framework)
 
 ---
 
