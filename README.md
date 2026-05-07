@@ -44,10 +44,12 @@ Built Tcl/Python automation tools to optimize verification workflows and reduce 
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [oc-loop](https://github.com/GoDiao/oc-loop) | Resumable loop plugin for opencode with `/oc-loop` and `/oc-watch`, designed to make iterative agent workflows more persistent and practical. | ![stars](https://img.shields.io/github/stars/GoDiao/oc-loop?style=flat-square&color=38BDF8&labelColor=1e293b) |
-| [ai-interview-agent](https://github.com/GoDiao/ai-interview-agent) | AI-powered interview preparation agent with structured questioning, feedback loops, and technical interview simulation. | ![stars](https://img.shields.io/github/stars/GoDiao/ai-interview-agent?style=flat-square&color=38BDF8&labelColor=1e293b) |
-| [Paper-Reader](https://github.com/GoDiao/Paper-Reader) | Hierarchical multi-agent academic paper analysis system with an interactive web interface for reading and summarizing research papers. | ![stars](https://img.shields.io/github/stars/GoDiao/Paper-Reader?style=flat-square&color=38BDF8&labelColor=1e293b) |
-| [Freeway](https://github.com/GoDiao/Free-Way) | Open-source gateway aggregating free LLM APIs behind one local, OpenAI-compatible endpoint. | ![stars](https://img.shields.io/github/stars/GoDiao/Free-Way?style=flat-square&color=38BDF8&labelColor=1e293b) |
+| [Freeway](https://github.com/GoDiao/Free-Way) | Open-source gateway aggregating free LLM APIs behind one local, OpenAI- and Anthropic-compatible endpoint. | ![stars](https://img.shields.io/github/stars/GoDiao/Free-Way?style=flat-square&color=38BDF8&labelColor=1e293b) |
+| [cswap](https://github.com/GoDiao/cswap) | Cross-platform CLI for switching Claude Code providers with isolated sessions. | ![stars](https://img.shields.io/github/stars/GoDiao/cswap?style=flat-square&color=38BDF8&labelColor=1e293b) |
+| [codex-sessions-mgr](https://github.com/GoDiao/codex-sessions-mgr) | Save and restore Codex Desktop/CLI session context across providers and machines. | ![stars](https://img.shields.io/github/stars/GoDiao/codex-sessions-mgr?style=flat-square&color=38BDF8&labelColor=1e293b) |
+| [oc-loop](https://github.com/GoDiao/oc-loop) | Resumable loop plugin for opencode with `/oc-loop` and `/oc-watch`. | ![stars](https://img.shields.io/github/stars/GoDiao/oc-loop?style=flat-square&color=38BDF8&labelColor=1e293b) |
+| [ai-interview-agent](https://github.com/GoDiao/ai-interview-agent) | AI-powered interview preparation agent with structured questioning and feedback loops. | ![stars](https://img.shields.io/github/stars/GoDiao/ai-interview-agent?style=flat-square&color=38BDF8&labelColor=1e293b) |
+| [Paper-Reader](https://github.com/GoDiao/Paper-Reader) | Hierarchical multi-agent academic paper analysis system with interactive web interface. | ![stars](https://img.shields.io/github/stars/GoDiao/Paper-Reader?style=flat-square&color=38BDF8&labelColor=1e293b) |
 
 ---
 
@@ -56,8 +58,12 @@ Built Tcl/Python automation tools to optimize verification workflows and reduce 
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [paperclip](https://github.com/paperclipai/paperclip) | Open-source orchestration for zero-human companies. | ![stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=flat-square&color=38BDF8&labelColor=1e293b) |
-| [MiniCode](https://github.com/LiuMengxuan04/MiniCode) | A lightweight terminal coding assistant with Claude Code-like workflow and TUI architecture. | ![stars](https://img.shields.io/github/stars/LiuMengxuan04/MiniCode?style=flat-square&color=38BDF8&labelColor=1e293b) |
-| [investing-algorithm-framework](https://github.com/coding-kitties/investing-algorithm-framework) | Framework for developing, backtesting, and deploying automated trading algorithms and trading bots. | ![stars](https://img.shields.io/github/stars/coding-kitties/investing-algorithm-framework?style=flat-square&color=38BDF8&labelColor=1e293b) |
+| [MiniCode](https://github.com/LiuMengxuan04/MiniCode) | Lightweight terminal coding assistant with Claude Code-like workflow and TUI. | ![stars](https://img.shields.io/github/stars/LiuMengxuan04/MiniCode?style=flat-square&color=38BDF8&labelColor=1e293b) |
+| [optillm](https://github.com/algorithmicsuperintelligence/optillm) | Optimizing inference proxy for LLMs with pluggable approaches. | ![stars](https://img.shields.io/github/stars/algorithmicsuperintelligence/optillm?style=flat-square&color=38BDF8&labelColor=1e293b) |
+| [open-codesign](https://github.com/OpenCoworkAI/open-codesign) | Open-source AI coding desktop app. | ![stars](https://img.shields.io/github/stars/OpenCoworkAI/open-codesign?style=flat-square&color=38BDF8&labelColor=1e293b) |
+| [opensre](https://github.com/Tracer-Cloud/opensre) | Open-source SRE platform for cloud infrastructure monitoring. | ![stars](https://img.shields.io/github/stars/Tracer-Cloud/opensre?style=flat-square&color=38BDF8&labelColor=1e293b) |
+| [claude-context](https://github.com/zilliztech/claude-context) | Context management for Claude with MCP integration. | ![stars](https://img.shields.io/github/stars/zilliztech/claude-context?style=flat-square&color=38BDF8&labelColor=1e293b) |
+| [investing-algorithm-framework](https://github.com/coding-kitties/investing-algorithm-framework) | Framework for backtesting and deploying automated trading algorithms. | ![stars](https://img.shields.io/github/stars/coding-kitties/investing-algorithm-framework?style=flat-square&color=38BDF8&labelColor=1e293b) |
 
 ---
 
